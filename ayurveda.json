@@ -1,0 +1,188 @@
+[
+  {
+    "Disease": "Acne (Yauvan Pidika)",
+    "Symptoms": "Pimples on face, Oily skin, Redness",
+    "Ayurvedic Treatment": "Turmeric, Aloe Vera, Neem, Sandalwood, Triphala"
+  },
+  {
+    "Disease": "Chronic Fatigue Syndrome",
+    "Symptoms": "Persistent fatigue, Muscle weakness",
+    "Ayurvedic Treatment": "Ashwagandha, Brahmi, Shatavari, Ginseng"
+  },
+  {
+    "Disease": "Rheumatoid Arthritis (Ama Vata)",
+    "Symptoms": "Joint swelling, Pain, Stiffness",
+    "Ayurvedic Treatment": "Guggul, Boswellia, Turmeric, Ginger, Ashwagandha"
+  },
+  {
+    "Disease": "Polycystic Ovary Syndrome",
+    "Symptoms": "Irregular periods, Weight gain",
+    "Ayurvedic Treatment": "Shatavari, Ashwagandha, Turmeric, Triphala, Fenugreek"
+  },
+  {
+    "Disease": "GERD (Amlapitta)",
+    "Symptoms": "Acid reflux, Heartburn",
+    "Ayurvedic Treatment": "Triphala, Amla, Licorice, Aloe Vera, Guduchi"
+  },
+  {
+    "Disease": "Vitiligo (Shwitra)",
+    "Symptoms": "White patches on skin, Itching",
+    "Ayurvedic Treatment": "Bakuchi, Guggul, Neem, Turmeric, Aloe Vera"
+  },
+  {
+    "Disease": "Gallbladder Stones (Pitta Ashmari)",
+    "Symptoms": "Upper abdominal pain, Vomiting",
+    "Ayurvedic Treatment": "Trikatu, Triphala, Castor oil, Turmeric"
+  },
+  {
+    "Disease": "Urticaria (Sheetapitta)",
+    "Symptoms": "Red rashes, Itching",
+    "Ayurvedic Treatment": "Aloe Vera, Neem, Turmeric, Guduchi, Triphala"
+  },
+  {
+    "Disease": "Epistaxis (Nosebleed)",
+    "Symptoms": "Blood from nostrils, Dizziness",
+    "Ayurvedic Treatment": "Triphala, Brahmi, Turmeric, Coconut oil"
+  },
+  {
+    "Disease": "Kidney Stones (Vrukka Ashmari)",
+    "Symptoms": "Severe back pain, Painful urination",
+    "Ayurvedic Treatment": "Gokshura, Pashanbhed, Punarnava, Guggul, Triphala"
+  },
+  {
+    "Disease": "Migraine",
+    "Symptoms": "Severe headache, Sensitivity to light",
+    "Ayurvedic Treatment": "Ashwagandha, Brahmi, Turmeric, Shankhapushpi"
+  },
+  {
+    "Disease": "Jaundice (Kamala)",
+    "Symptoms": "Yellowing of skin, Dark urine",
+    "Ayurvedic Treatment": "Kutki, Bhringraj, Amla, Triphala, Turmeric"
+  },
+  {
+    "Disease": "Common Cold (Pratishyaya)",
+    "Symptoms": "Sneezing, Runny nose",
+    "Ayurvedic Treatment": "Ginger, Tulsi, Turmeric, Honey, Triphala"
+  },
+  {
+    "Disease": "Asthma (Tamaka Shwasa)",
+    "Symptoms": "Wheezing, Shortness of breath",
+    "Ayurvedic Treatment": "Tulsi, Ashwagandha, Licorice, Trikatu, Ginger"
+  },
+  {
+    "Disease": "Diarrhea (Atisara)",
+    "Symptoms": "Loose stools, Abdominal pain",
+    "Ayurvedic Treatment": "Pomegranate, Bael, Amla, Ginger, Triphala"
+  },
+  {
+    "Disease": "Constipation (Vibandha)",
+    "Symptoms": "Difficulty passing stools, Bloating",
+    "Ayurvedic Treatment": "Triphala, Isabgol, Castor oil, Ashwagandha, Aloe Vera"
+  },
+  {
+    "Disease": "Sinusitis (Peenas)",
+    "Symptoms": "Nasal congestion, Headache",
+    "Ayurvedic Treatment": "Turmeric, Tulsi, Ginger, Triphala, Nasya oil"
+  },
+  {
+    "Disease": "Hypertension (Raktachap)",
+    "Symptoms": "Headache, Fatigue, Shortness of breath",
+    "Ayurvedic Treatment": "Arjuna, Ashwagandha, Brahmi, Guduchi, Triphala"
+  },
+  {
+    "Disease": "Bronchitis (Kasa)",
+    "Symptoms": "Persistent cough, Chest discomfort",
+    "Ayurvedic Treatment": "Tulsi, Ginger, Licorice, Triphala, Cinnamon"
+  },
+  {
+    "Disease": "Anemia (Panduroga)",
+    "Symptoms": "Fatigue, Pale skin, Shortness of breath",
+    "Ayurvedic Treatment": "Ashwagandha, Shatavari, Amla, Gokshura, Triphala"
+  },
+  {
+    "Disease": "Tuberculosis (Rajayakshma)",
+    "Symptoms": "Persistent cough, Night sweats",
+    "Ayurvedic Treatment": "Ashwagandha, Brahmi, Licorice, Guduchi, Triphala"
+  },
+  {
+    "Disease": "Diabetes (Madhumeha)",
+    "Symptoms": "Increased thirst, Frequent urination",
+    "Ayurvedic Treatment": "Bitter melon, Amla, Fenugreek, Gymnema, Turmeric"
+  },
+  {
+    "Disease": "Malaria (Plasmodium infection)",
+    "Symptoms": "Fever, Chills, Sweating",
+    "Ayurvedic Treatment": "Guduchi, Tulsi, Neem, Ashwagandha, Triphala"
+  },
+  {
+    "Disease": "Hypertension (Raktachap)",
+    "Symptoms": "Headache, Swelling in legs",
+    "Ayurvedic Treatment": "Arjuna, Brahmi, Triphala, Ashwagandha"
+  },
+  {
+    "Disease": "Stroke (Pakshaghata)",
+    "Symptoms": "Numbness, Confusion, Dizziness",
+    "Ayurvedic Treatment": "Brahmi, Ashwagandha, Guggul, Triphala, Bhringraj"
+  },
+  {
+    "Disease": "Arthritis (Vata Vata)",
+    "Symptoms": "Joint pain, Stiffness, Swelling",
+    "Ayurvedic Treatment": "Guggul, Ashwagandha, Turmeric, Boswellia, Triphala"
+  },
+  {
+    "Disease": "Influenza (Flu)",
+    "Symptoms": "Fever, Cough, Muscle aches",
+    "Ayurvedic Treatment": "Turmeric, Ginger, Honey, Tulsi, Triphala"
+  },
+  {
+    "Disease": "Pneumonia (Shwasa)",
+    "Symptoms": "Fever, Shortness of breath, Chest pain",
+    "Ayurvedic Treatment": "Ginger, Licorice, Tulsi, Triphala, Pippali"
+  },
+  {
+    "Disease": "Psoriasis (Kitibha)",
+    "Symptoms": "Red patches on skin, Dry skin",
+    "Ayurvedic Treatment": "Neem, Turmeric, Aloe Vera, Guggul, Triphala"
+  },
+  {
+    "Disease": "Epilepsy (Apasmara)",
+    "Symptoms": "Seizures, Loss of consciousness",
+    "Ayurvedic Treatment": "Brahmi, Shankhapushpi, Ashwagandha, Jatamansi"
+  },
+  {
+    "Disease": "Asthma (Tamaka Shwasa)",
+    "Symptoms": "Difficulty breathing, Wheezing",
+    "Ayurvedic Treatment": "Tulsi, Ashwagandha, Trikatu, Ginger, Licorice"
+  },
+  {
+    "Disease": "Gout (Vatarakta)",
+    "Symptoms": "Joint pain, Swelling",
+    "Ayurvedic Treatment": "Guggul, Triphala, Turmeric, Fenugreek, Ginger"
+  },
+  {
+    "Disease": "Leprosy (Kushtha)",
+    "Symptoms": "Numbness, Discoloration of skin",
+    "Ayurvedic Treatment": "Bakuchi, Triphala, Turmeric, Neem, Guggul"
+  },
+  {
+    "Disease": "Chickenpox (Varicella)",
+    "Symptoms": "Red spots on skin, Itching",
+    "Ayurvedic Treatment": "Neem, Turmeric, Aloe Vera, Triphala, Sandalwood"
+  },
+  {
+    "Disease": "Diphtheria (Kali Purna)",
+    "Symptoms": "Sore throat, Fever, Difficulty swallowing",
+    "Ayurvedic Treatment": "Triphala, Licorice, Honey, Turmeric, Ginger"
+  },
+  {
+    "Disease": "Hepatitis (Kamala)",
+    "Symptoms": "Jaundice, Dark urine",
+    "Ayurvedic Treatment": "Kutki, Bhringraj, Amla, Turmeric, Triphala"
+  },
+  {
+    "Disease": "Dysentery (Atisara)",
+    "Symptoms": "Diarrhea, Abdominal pain",
+    "Ayurvedic Treatment": "Bael, Pomegranate, Triphala, Ginger, Amla"
+  },
+  {
+    "Disease
